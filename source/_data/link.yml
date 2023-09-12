@@ -1,0 +1,35 @@
+  # front-matterrandom: true
+
+# - class_name: 友情链接
+- class_name: 1.技术支持
+  class_desc: 本网站的搭建由以下开源作者提供技术支持
+  link_list: 
+    - name: Hexo 
+      link: https://hexo.io/zh-cn/docs/templates
+      avatar: https://d33wubrfki0l68.cloudfront.net/6657ba50e702d84afb32fe846bed54fba1a77add/827ae/logo.svg
+      descr: 快速、简单且强大的网志框架
+      siteshot: https://source.fomal.cc/siteshot/hexo.io.jpg
+    - name: Butterfly 
+      link: https://butterfly.js.org/posts/21cfbf15/
+      avatar: https://butterfly.js.org/img/avatar.png
+      descr: A Simple and Card UI Design theme for Hexo
+      siteshot: https://file.crazywong.com/gh/jerryc127/butterfly_cdn@2.1.0/top_img/index.jpg
+    # - name: Fomalhaut🥝
+    #   link: https://www.fomal.cc/posts/3451f874.html
+    #   avatar: https://www.fomal.cc/assets/r1.jpg
+    #   descr: Future is now 🍭🍭🍭
+    #   siteshot: https://source.fomal.cc/siteshot/www.fomal.cn.jpg
+
+- class_name: 2.友情链接
+  class_desc: 一些好朋友~~
+  link_list:
+    - name: Fomalhaut🥝
+      link: https://fomal.cc/
+      avatar: https://www.fomal.cc/assets/r1.jpg
+      descr: Future is now 🍭🍭🍭
+      siteshot: https://cdnimg.firstdyeing.com/2023/08/14/avatar.webp
+    - name: 开往-友力链接
+      link: https://www.travellings.cn/go.html
+      avatar: https://blog.travellings.cn/travelling-dark.png
+      descr: 随机开往一个博客
+      siteshot: 
